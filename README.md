@@ -13,6 +13,7 @@ Welcome to **DexMaster** – the ultimate Pokémon Dex app! DexMaster is designe
 - **Feedback Option**: Your feedback matters! Easily send your thoughts and suggestions directly from the app.
 - **Share App**: Love DexMaster? Share it with your friends and fellow Pokémon fans with just a tap.
 - **Modern UI**: Enjoy a beautifully designed interface that is smooth and intuitive to navigate.
+- **Theme Changes**: DexMaster adapts to your mobile theme, providing a seamless and personalized experience whether you're in light or dark mode.
 
 ## Demovideo
 
@@ -68,6 +69,7 @@ To get a local copy up and running follow these simple steps:
 - Stay updated with in-app updates.
 - Share your feedback to help us improve.
 - Share DexMaster with your friends easily.
+- Enjoy the app in both light and dark modes, as it adapts to your mobile theme.
 
 ## Built With
 
