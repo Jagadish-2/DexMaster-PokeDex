@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405963857624",
+    "project_id": "pokedex-a3156",
+    "storage_bucket": "pokedex-a3156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405963857624:android:3960d1c97e10d1e795c1ad",
+        "android_client_info": {
+          "package_name": "com.jagadish.pokedex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHicapejDe11diCDpM2mk_HcB_LEcqAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
