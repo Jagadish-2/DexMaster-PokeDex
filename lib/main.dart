@@ -44,8 +44,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Wiredash(
-      projectId: 'pokedex-sq3c21o',
-      secret: 'JvUFNwU2UEUvXCjNAdxACHMqIKM729wh',
+      projectId: '',
+      secret: '',
       child: MaterialApp(
           debugShowCheckedModeBanner: false,
           theme: lightTheme,
